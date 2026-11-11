@@ -1,0 +1,13 @@
+# REED: direct Python dependencies (versions from the local timeemb environment)
+# Python 3.10.19
+# Original local GPU environment: PyTorch 2.11.0+cu128 (CUDA 12.8).
+# For CUDA-specific PyTorch wheels, install the matching build separately
+# from https://pytorch.org/get-started/locally/ before using this file.
+torch==2.11.0
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.11.4
+scikit-learn==1.5.2
+natsort==8.4.0
+psutil==7.2.2
+matplotlib==3.9.2
